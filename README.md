@@ -1,2 +1,2 @@
 # Nodelvl1
-3
+Node-Client für das KoBunka-Bunkernetzwerk.
